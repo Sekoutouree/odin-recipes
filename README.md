@@ -1,0 +1,1 @@
+Created a recipe website where I put the recipies for ghanaian dishes. The project included 4 sperate pages linked to the home page. I used basic HTML for this project. Next will be to style the page using CSS
